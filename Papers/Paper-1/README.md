@@ -5,4 +5,4 @@
 * **Implementation details:** ResNet50 and ResNet101 are used as the CNN backbone for the models and are trained on the Google landmarks dataset V2 (GLDv2-clean)
 * **Evaluation metrics:** The paper primarily uses mAP for the evaluation
 * **Datasets:** The evaluations are performed on Revisited Oxford and Revisited Paris datasets
-* **Performance:** On the Hard variant of the two datasets, the authors demonstrate a mAP of 61.1% and 80.3% for Revisited Oxford and Revisited Paris respectively
+* **Performance:** On the Hard variant of the two datasets, the authors demonstrate an mAP of 61.1% and 80.3% for Revisited Oxford and Revisited Paris respectively
